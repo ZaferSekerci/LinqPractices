@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PLPF0DGNo9q3+2lMXJvqFjLzP+2JAeLydL1EYOlqset5B3ZNg1eQnjv5xfKkoytJ34eQ1hJ5I5knXdl0Y1EBLg==",
+  "dgSpecHash": "CI325scmNc1+GU4x7Mm27nIlLMJZFGh76R68bri1gQHO+94wyCsNtVuZDQzAeVzIFmQPgg6t8Lo51ov7u1mP8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zafer\\source\\repos\\LinqPractices\\LinqPractices.csproj",
+  "projectFilePath": "C:\\Users\\zafer\\repos\\LinqPractices\\LinqPractices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zafer\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\zafer\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",

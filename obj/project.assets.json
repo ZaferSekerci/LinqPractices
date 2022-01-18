@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zafer\\source\\repos\\LinqPractices\\LinqPractices.csproj",
+      "projectUniqueName": "C:\\Users\\zafer\\repos\\LinqPractices\\LinqPractices.csproj",
       "projectName": "LinqPractices",
-      "projectPath": "C:\\Users\\zafer\\source\\repos\\LinqPractices\\LinqPractices.csproj",
+      "projectPath": "C:\\Users\\zafer\\repos\\LinqPractices\\LinqPractices.csproj",
       "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zafer\\source\\repos\\LinqPractices\\obj\\",
+      "outputPath": "C:\\Users\\zafer\\repos\\LinqPractices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
